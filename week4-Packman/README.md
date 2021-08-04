@@ -6,7 +6,8 @@ Control a PacMan image to simulate the PacMan moving across the screen and rever
 
 <!-- Video -->
 ## Simulation Video
-https://github.com/IvanFernandezGracia/MIT-Desarrollo-Full-Stack-MERN-21-06/blob/main/week4-Packman/20210803_211346.mp4
+https://user-images.githubusercontent.com/48660555/128107153-81199a8e-ae1a-4d71-9a87-8a68818c4538.mp4
+
 
 <!-- Contact -->
 ## Contact
