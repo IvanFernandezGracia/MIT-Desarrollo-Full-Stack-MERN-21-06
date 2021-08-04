@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+#container-balls-1 {
+    position: relative;
+    background-color: #000000;
+    margin: 1em auto;
+}
+.ball {
+    background-color: black;
+    position: absolute;
+    display: inline-block;
+    border-radius: 50%;
+}
