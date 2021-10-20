@@ -21,4 +21,16 @@ MIT xPro’s Professional Certificate in Coding: Full Stack Development with MER
 ## Example of a diploma
 ![u6m5grfodqjqlb2j9ypresc9zjf1](https://user-images.githubusercontent.com/48660555/138150242-21088be0-5c79-42ba-927f-2a5bc8278ef5.png)
 
-## 
+<!-- LICENSE -->
+## Licence 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) *The MIT License*
+
+
+<!-- CONTACT -->
+<a name="conta"></a>
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718  
+Mechanical Engineering  
+Universidad de Santiago de Chile
